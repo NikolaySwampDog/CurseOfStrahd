@@ -1,0 +1,450 @@
+{
+  "size": {
+    "w": 3375,
+    "h": 2167
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_if9usv",
+      "x": 0.17496031746031743,
+      "y": 0.20110359051904103,
+      "layer": "default",
+      "link": "Логово вервольфов",
+      "iconKey": "pinRed",
+      "tooltip": "Логово вервольфов (Z)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_r8w7u4",
+      "x": 0.21375514403292176,
+      "y": 0.23639492161462342,
+      "layer": "default",
+      "link": "Озеро Бараток",
+      "iconKey": "pinBlue",
+      "tooltip": "Озеро Бараток",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_gac744",
+      "x": 0.699889057115581,
+      "y": 0.476405882127756,
+      "layer": "default",
+      "link": "Замок Равенлофт",
+      "iconKey": "pinRed",
+      "tooltip": "Замок Равенлофт (K)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_l5cbx6",
+      "x": 0.8537160032467858,
+      "y": 0.599785273448058,
+      "layer": "default",
+      "link": "Старая Сваличская Дорога",
+      "iconKey": "pinRed",
+      "tooltip": "Старая Сваличская Дорога (A)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_22t12j",
+      "x": 0.9152950373318162,
+      "y": 0.5100697827940516,
+      "layer": "default",
+      "link": "Ворота в Баровию",
+      "iconKey": "pinRed",
+      "tooltip": "Ворота в Баровию (B)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_nh8rrj",
+      "x": 0.5842354953299098,
+      "y": 0.4204154791546357,
+      "layer": "default",
+      "link": "Ворота в Баровию",
+      "iconKey": "pinRed",
+      "tooltip": "Ворота в Баровию (B)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_g8kbgj",
+      "x": 0.8666666666666667,
+      "y": 0.37380924912650804,
+      "layer": "default",
+      "link": "Сваличский лес",
+      "iconKey": "pinRed",
+      "tooltip": "Сваличский лес (C)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_i5t7o9",
+      "x": 0.8205280655208519,
+      "y": 0.7047586404014886,
+      "layer": "default",
+      "link": "Река Ивлис",
+      "iconKey": "pinBlue",
+      "tooltip": "Река Ивлис (D)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_x5xn87",
+      "x": 0.7769052183969198,
+      "y": 0.5713053655830092,
+      "layer": "default",
+      "link": "Деревня Баровия",
+      "iconKey": "pinRed",
+      "tooltip": "Деревня Баровия (Е)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_3te3in",
+      "x": 0.6645267489711935,
+      "y": 0.6912878787878788,
+      "layer": "default",
+      "link": "Перекрёсток у реки Ивлис",
+      "iconKey": "pinRed",
+      "tooltip": "Перекрёсток у реки Ивлис (F)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_6kj9x9",
+      "x": 0.6480658436213992,
+      "y": 0.588739552889299,
+      "layer": "default",
+      "link": "Лагерь у Озера Тсер",
+      "iconKey": "pinRed",
+      "tooltip": "Лагерь у Озера Тсер (G)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_znl5t9",
+      "x": 0.6704526748971193,
+      "y": 0.6061727682920578,
+      "layer": "default",
+      "link": "Озеро Тсер",
+      "iconKey": "pinBlue",
+      "tooltip": "Озеро Тсер",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_sjeyf7",
+      "x": 0.5802469135802469,
+      "y": 0.5333634569040661,
+      "layer": "default",
+      "link": "Водопад Тсер",
+      "iconKey": "pinBlue",
+      "tooltip": "Водопад Тсер (H)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_v85el1",
+      "x": 0.5947325102880657,
+      "y": 0.4431209301133159,
+      "layer": "default",
+      "link": "Чёрная карета",
+      "iconKey": "pinRed",
+      "tooltip": "Чёрная карета (I)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_dbqpb5",
+      "x": 0.6776954732510287,
+      "y": 0.49336960980361994,
+      "layer": "default",
+      "link": "Ворота Равенлофта",
+      "iconKey": "pinRed",
+      "tooltip": "Ворота Равенлофта (J)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_7jvmjy",
+      "x": 0.44237992378600827,
+      "y": 0.20730320308093622,
+      "layer": "default",
+      "link": "Озеро Зарович",
+      "iconKey": "pinBlue",
+      "tooltip": "Озеро Зарович (L)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_snn03n",
+      "x": 0.46920850189300406,
+      "y": 0.12555142643119008,
+      "layer": "default",
+      "link": "Безумный маг с горы Бараток",
+      "iconKey": "pinRed",
+      "tooltip": "Безумный маг с горы Бараток (M)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_rhwgtd",
+      "x": 0.6620811287477955,
+      "y": 0.033202309534796845,
+      "layer": "default",
+      "link": "Гора Бараток",
+      "iconKey": "pinRed",
+      "tooltip": "Гора Бараток",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_7vel40",
+      "x": 0.38604507061728394,
+      "y": 0.30227595651950984,
+      "layer": "default",
+      "link": "Валлаки",
+      "iconKey": "pinRed",
+      "tooltip": "Валлаки (N)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_n22kt2",
+      "x": 0.48213991769547326,
+      "y": 0.3949232169409835,
+      "layer": "default",
+      "link": "Старая Костедробилка",
+      "iconKey": "pinRed",
+      "tooltip": "Старая Костедробилка\n(O)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_fb8dy3",
+      "x": 0.32738548148148144,
+      "y": 0.341637568579193,
+      "layer": "default",
+      "link": "Перекрёсток у реки Луна",
+      "iconKey": "pinRed",
+      "tooltip": "Перекрёсток у реки Луна (P)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_i3dl76",
+      "x": 0.3118871252204585,
+      "y": 0.46421658572673796,
+      "layer": "default",
+      "link": "Аргинвостхольт",
+      "iconKey": "pinRed",
+      "tooltip": "Аргинвостхольт (Q)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ip9ghh",
+      "x": 0.36560324279835393,
+      "y": 0.46719657712915963,
+      "layer": "default",
+      "link": "Река Луна",
+      "iconKey": "pinBlue",
+      "tooltip": "",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_aizqjv",
+      "x": 0.2088888888888889,
+      "y": 0.3201270317387069,
+      "layer": "default",
+      "link": "Перекрёсток у реки Равен",
+      "iconKey": "pinRed",
+      "tooltip": "Перекрёсток у реки Равен (R)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_7gnub2",
+      "x": 0.10748971193415638,
+      "y": 0.29551543352304777,
+      "layer": "default",
+      "link": "Крезк",
+      "iconKey": "pinRed",
+      "tooltip": "Деревня Крезк (S)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_1olph4",
+      "x": 0.1588477366255144,
+      "y": 0.3160250987027637,
+      "layer": "default",
+      "link": "Река Равен",
+      "iconKey": "pinBlue",
+      "tooltip": "",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_rf5ky6",
+      "x": 0.25568727957909015,
+      "y": 0.7117411976151269,
+      "layer": "default",
+      "link": "Перевал Тсоленка",
+      "iconKey": "pinRed",
+      "tooltip": "Перевал Тсоленка (T)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_poz6rk",
+      "x": 0.4461885259280699,
+      "y": 0.8930265097668572,
+      "layer": "default",
+      "link": "Гора Гакис",
+      "iconKey": "pinRed",
+      "tooltip": "Гора Гакис",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_vu15wl",
+      "x": 0.32674897119341556,
+      "y": 0.5929055786289288,
+      "layer": "default",
+      "link": "Берез",
+      "iconKey": "pinRed",
+      "tooltip": "Руины Береза (U)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_1lmlwt",
+      "x": 0.20954732510288065,
+      "y": 0.7723651489514434,
+      "layer": "default",
+      "link": "Озеро Луна",
+      "iconKey": "pinBlue",
+      "tooltip": "Озеро Луна",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_z6w9vg",
+      "x": 0.22864197530864197,
+      "y": 0.2647509357534738,
+      "layer": "default",
+      "link": "Башня Ван Рихтена",
+      "iconKey": "pinRed",
+      "tooltip": "Башня Ван Рихтена (V)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_y9ukal",
+      "x": 0.09958847736625516,
+      "y": 0.4431850228170025,
+      "layer": "default",
+      "link": "Винный Волшебник",
+      "iconKey": "pinRed",
+      "tooltip": "Винный Волшебник (W)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_u4nom3",
+      "x": 0.3455445670908001,
+      "y": 0.8177375673387237,
+      "layer": "default",
+      "link": "Янтарный храм",
+      "iconKey": "pinRed",
+      "tooltip": "Янтарный храм (X)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_3xmf9g",
+      "x": 0.05665555238314323,
+      "y": 0.5978464889222433,
+      "layer": "default",
+      "link": "Холм Былого",
+      "iconKey": "pinRed",
+      "tooltip": "Холм Былого (Y)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "_files/barovia_map.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_files/barovia_map.webp",
+  "measurement": {
+    "displayUnit": "mi",
+    "scales": {
+      "_files/barovia_map.webp": 8.623194666605885
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "metersPerPixel": 8.623194666605885
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
