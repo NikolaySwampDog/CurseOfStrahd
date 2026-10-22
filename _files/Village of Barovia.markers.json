@@ -1,0 +1,126 @@
+{
+  "size": {
+    "w": 1008,
+    "h": 1279
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_j52hsj",
+      "x": 0.44202730140443264,
+      "y": 0.5892728019396994,
+      "layer": "default",
+      "link": "Лавка Бильдрата",
+      "iconKey": "pinRed",
+      "tooltip": "Лавка Бильдрата",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ljzdd2",
+      "x": 0.4404646081349208,
+      "y": 0.47801104989249427,
+      "layer": "default",
+      "link": "Таверна Кровь Вина",
+      "iconKey": "pinRed",
+      "tooltip": "Таверна Кровь Вина",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_vqb04n",
+      "x": 0.4070575644841271,
+      "y": 0.6600219177580143,
+      "layer": "default",
+      "link": "Богадельня Безумной Мэри",
+      "iconKey": "pinRed",
+      "tooltip": "Богадельня Безумной Мэри",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_2qzpze",
+      "x": 0.3991019345238096,
+      "y": 0.8945257891907742,
+      "layer": "default",
+      "link": "Особняк Бургомистра",
+      "iconKey": "pinRed",
+      "tooltip": "Особняк Бургомистра",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ypib8v",
+      "x": 0.2248043154761905,
+      "y": 0.2888635530688038,
+      "layer": "default",
+      "link": "Церковь",
+      "iconKey": "pinRed",
+      "tooltip": "Церковь",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_46n3e2",
+      "x": 0.25781522817460323,
+      "y": 0.17647262265441754,
+      "layer": "default",
+      "link": "Кладбище",
+      "iconKey": "pinRed",
+      "tooltip": "Кладбище",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_4dlpka",
+      "x": 0.7492479518689196,
+      "y": 0.3967037314938585,
+      "layer": "default",
+      "link": "Дом смерти",
+      "iconKey": "pinRed",
+      "tooltip": "Дом смерти (E7)",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "_files/Village of Barovia.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_files/Village of Barovia.jpg",
+  "measurement": {
+    "displayUnit": "m",
+    "scales": {
+      "_files/Village of Barovia.jpg": 0.20319999999999996
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "metersPerPixel": 0.20319999999999996
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
