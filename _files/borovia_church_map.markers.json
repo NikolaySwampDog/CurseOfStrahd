@@ -1,0 +1,149 @@
+{
+  "size": {
+    "w": 1007,
+    "h": 696
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_l82nat",
+      "x": 0.2450239626959113,
+      "y": 0.5495299225387307,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Холл (A)",
+      "iconKey": "pinRed",
+      "tooltip": "Холл",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_hymbz3",
+      "x": 0.24502396269591126,
+      "y": 0.33505382725304017,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Часовня (F)",
+      "iconKey": "pinRed",
+      "tooltip": "Часовня",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_z6pdho",
+      "x": 0.724277880920513,
+      "y": 0.37461737881059476,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Подвал (G)",
+      "iconKey": "pinRed",
+      "tooltip": "Подвал",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_sks1mg",
+      "x": 0.14477969104280575,
+      "y": 0.4794399675162419,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Спальня Донавича (C)",
+      "iconKey": "pinRed",
+      "tooltip": "Спальня",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_s889fk",
+      "x": 0.2904072022849278,
+      "y": 0.4729344607999031,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Кабинет (E)",
+      "iconKey": "pinRed",
+      "tooltip": "Кабинет",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_qz27x0",
+      "x": 0.30114200595829194,
+      "y": 0.5760147270114943,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Люк (D)",
+      "iconKey": "pinRed",
+      "tooltip": "Люк",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_gjwmfs",
+      "x": 0.1521847070506455,
+      "y": 0.5990032327586207,
+      "layer": "default",
+      "link": "Церковь деревни Баровия#Спальня Дору (B)",
+      "iconKey": "pinRed",
+      "tooltip": "Спальня Дору",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "_files/borovia_church_map.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_files/borovia_church_map.png",
+  "measurement": {
+    "displayUnit": "ft",
+    "scales": {
+      "_files/borovia_church_map.png": 0.05077180127454102
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "metersPerPixel": 0.05077180127454102
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_pjhso9",
+      "label": "Delete pin",
+      "createdAt": "2026-10-22T23:06:12.214Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_1azfh4",
+          "x": 0.24646316365154072,
+          "y": 0.21844546476761623,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinBlue",
+          "tooltip": "Верёвка",
+          "tooltipLabelAlways": true,
+          "tooltipLabelPosition": "below"
+        },
+        "index": 0
+      }
+    }
+  ]
+}

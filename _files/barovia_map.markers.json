@@ -419,6 +419,18 @@
       "tooltip": "Холм Былого (Y)",
       "tooltipLabelAlways": true,
       "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_655wnx",
+      "x": 0.47731850362411704,
+      "y": 0.4996707606420644,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Горы Балинок",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
     }
   ],
   "bases": [
